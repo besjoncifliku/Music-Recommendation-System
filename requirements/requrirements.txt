@@ -1,0 +1,4 @@
+!pip install tkinter
+!pip install -U scikit-learn
+!pip install PIL
+!pip install pandas
